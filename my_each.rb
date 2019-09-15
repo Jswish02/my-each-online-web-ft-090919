@@ -7,3 +7,8 @@ end
 end
 my_each(list)
 {|i| puts "so I think #{i} is a piece of "
+
+
+
+
+
